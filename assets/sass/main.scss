@@ -345,7 +345,7 @@
 
 		&:after {
 			@include vendor('transition', 'opacity 0.25s ease-in-out');
-			background-image: url('images/overlay.png');
+			//background-image: url('images/overlay.png');
 			content: '';
 			display: block;
 			height: 100%;
@@ -744,7 +744,7 @@
 
 		&:before {
 			height: calc(100% - 50px);
-			opacity: 0.15;
+			opacity: 0;
 			top: 0;
 		}
 

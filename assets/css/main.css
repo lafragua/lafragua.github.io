@@ -1612,7 +1612,6 @@ textarea {
     -webkit-transition: opacity 0.25s ease-in-out;
     -ms-transition: opacity 0.25s ease-in-out;
     transition: opacity 0.25s ease-in-out;
-    background-image: url("images/overlay.png");
     content: '';
     display: block;
     height: 100%;
@@ -1915,7 +1914,7 @@ input[type="button"],
     z-index: 0; }
   #header:before {
     height: calc(100% - 50px);
-    opacity: 0.15;
+    opacity: 0;
     top: 0; }
   #header:after {
     bottom: 0;
