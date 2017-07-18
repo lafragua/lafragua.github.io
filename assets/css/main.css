@@ -2215,7 +2215,7 @@ input[type="button"],
   #header {
     background-image: url("images/top-1280.svg"), url("images/overlay.png"), url("../../images/header.jpg");
     background-size: 1280px 184px,						auto,							cover;
-    padding: 3em 0 7em 0; }
+    padding: 2em 0 7em 0; }
     #header:before {
       height: calc(100% - 20px); }
     #header:after {
@@ -2349,7 +2349,8 @@ input[type="button"],
   @media screen and (max-width: 736px) {
     #navigator {
       height: 2.5em;
-      line-height: 2.5em; }
+      line-height: 2.5em;
+      top: 0; }
       #navigator h1 {
         text-align: center;
         position: relative;
@@ -2376,12 +2377,14 @@ input[type="button"],
     font-size: 0.75em; }
     #navigator2 p b {
       color: inherit; }
+  #navigator2 p.no-wrap {
+    white-space: nowrap; }
   #navigator2 a {
     color: inherit; }
-
-#mapa {
-  width: "700px";
-  height: "450px";
-  border: 0; }
+  @media screen and (max-width: 736px) {
+    #navigator2 {
+      position: relative;
+      padding-top: 40px;
+      height: 122px; } }
 
 /*# sourceMappingURL=main.css.map */
