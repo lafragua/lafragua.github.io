@@ -667,6 +667,9 @@
 		.content {
 			display: inline-block;
 			padding: 3.5em;
+			padding-top: 1em;
+			padding-left: 2em;
+			padding-right: 2em;
 			vertical-align: middle;
 			width: 48%;
 
@@ -1388,7 +1391,7 @@
 	position: fixed;
 	z-index: 10000;
 	left: 0;
-	top: 0;
+	top: 28px;
 	width: 100%;
 	background: transparentize(_palette(bg), 0.05);
 	height: 3em;
@@ -1461,4 +1464,31 @@
 			display: none;
 		}
 	}
+}
+
+#navigator2 {
+	position: fixed;
+	top: 0;
+	height: 32px;
+	background-color: #1D90D4;
+	z-index: 10000;
+	width: 100%;
+	color: white;
+	p {
+		padding-left: 15px;
+		color:inherit;
+		font-size: 0.75em;
+		b {
+			color: inherit;
+		}
+	}
+	a {
+		color: inherit;
+	}
+}
+
+#mapa {
+	width:"700px";
+	height:"450px";
+	border: 0;
 }

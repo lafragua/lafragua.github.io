@@ -1868,6 +1868,9 @@ input[type="button"],
   .feature .content {
     display: inline-block;
     padding: 3.5em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
     vertical-align: middle;
     width: 48%; }
     .feature .content h3 {
@@ -1901,7 +1904,7 @@ input[type="button"],
   background-position: bottom center,					top left,				center center;
   background-repeat: repeat-x,						repeat,					no-repeat;
   background-size: 3200px 460px,					auto,					cover;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(255, 255, 255, 0.8);
   padding: 10em 0 20em 0;
   position: relative;
   text-align: center; }
@@ -1921,19 +1924,19 @@ input[type="button"],
     height: 50px; }
   #header a {
     border-bottom-color: rgba(0, 0, 0, 0.35);
-    color: rgba(0, 0, 0, 0.8); }
+    color: rgba(255, 255, 255, 0.8); }
     #header a:hover {
       border-bottom-color: transparent;
       color: #3AAED8; }
   #header strong, #header b {
-    color: #000000; }
+    color: #ffffff; }
   #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-    color: #000000; }
+    color: #ffffff; }
   #header input[type="submit"],
   #header input[type="reset"],
   #header input[type="button"],
   #header .button {
-    background: #000000;
+    background: #ffffff;
     color: #0c8ad4; }
   #header .logo {
     background: #3AAED8;
@@ -2305,7 +2308,7 @@ input[type="button"],
   position: fixed;
   z-index: 10000;
   left: 0;
-  top: 0;
+  top: 28px;
   width: 100%;
   background: rgba(255, 255, 255, 0.95);
   height: 3em;
@@ -2358,5 +2361,27 @@ input[type="button"],
           font-size: 1em; }
       #navigator nav {
         display: none; } }
+
+#navigator2 {
+  position: fixed;
+  top: 0;
+  height: 32px;
+  background-color: #1D90D4;
+  z-index: 10000;
+  width: 100%;
+  color: white; }
+  #navigator2 p {
+    padding-left: 15px;
+    color: inherit;
+    font-size: 0.75em; }
+    #navigator2 p b {
+      color: inherit; }
+  #navigator2 a {
+    color: inherit; }
+
+#mapa {
+  width: "700px";
+  height: "450px";
+  border: 0; }
 
 /*# sourceMappingURL=main.css.map */
