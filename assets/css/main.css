@@ -2387,4 +2387,10 @@ input[type="button"],
       padding-top: 40px;
       height: 122px; } }
 
+#mapa {
+  border: 0; }
+
+iframe, object, embed {
+  max-width: 100%; }
+
 /*# sourceMappingURL=main.css.map */
