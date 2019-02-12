@@ -33,4 +33,4 @@
 	Language: Spanish
 	Doctype:HTML5
 	IDE: Visual Studio Code, Ilustrator, Photoshop
-	Site URL: http://lafragua.mx/
+	Site URL: https://lafragua.mx/

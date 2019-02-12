@@ -1,141 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-		<loc>http://lafragua.mx/</loc>
+	<url>
+		<loc>https://lafragua.mx/</loc>
 		<lastmod>2019-01-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.9</priority>
+		<loc>https://lafragua.mx/servicios</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.9</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyectos</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.9</priority>
+		<loc>https://lafragua.mx/proyectos</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.9</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/nosotros</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.9</priority>
+		<loc>https://lafragua.mx/nosotros</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.9</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/contacto</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.9</priority>
+		<loc>https://lafragua.mx/contacto</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.9</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios/01/estructuras</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/servicios/01/estructuras</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios/02/gruas</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/servicios/02/gruas</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios/03/armaduras</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/servicios/03/armaduras</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios/04/marcos-para-tuneles</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/servicios/04/marcos-para-tuneles</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios/05/losacero</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/servicios/05/losacero</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios/06/lamina-de-cubierta</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/servicios/06/lamina-de-cubierta</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios/07/generadores-electricos</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/servicios/07/generadores-electricos</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios/08/maquinaria-para-construccion</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/servicios/08/maquinaria-para-construccion</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/servicios/09/otros</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/servicios/09/otros</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyecto/01/explanada-cenobio-moreno</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/proyecto/01/explanada-cenobio-moreno</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyecto/02/tienda-azteca-las-tijeras</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/proyecto/02/tienda-azteca-las-tijeras</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyecto/03/dulceria-don-vasco</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/proyecto/03/dulceria-don-vasco</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyecto/04/unidad-deportiva-ejercito-de-la-revolucion</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/proyecto/04/unidad-deportiva-ejercito-de-la-revolucion</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyecto/05/universidad-montrer</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/proyecto/05/universidad-montrer</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyecto/06/puente-vial-en-la-av-vicente-santa-maria</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/proyecto/06/puente-vial-en-la-av-vicente-santa-maria</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyecto/07/colegio-manuel-fulcheri</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/proyecto/07/colegio-manuel-fulcheri</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyecto/08/tienda-colchas-carla</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/proyecto/08/tienda-colchas-carla</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
 	<url>
-  	<loc>http://lafragua.mx/proyecto/09/tridilosa-hospital-general-uruapan</loc>
-		<lastmod>2019-01-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<loc>https://lafragua.mx/proyecto/09/tridilosa-hospital-general-uruapan</loc>
+			<lastmod>2019-01-30</lastmod>
+			<changefreq>monthly</changefreq>
+			<priority>0.8</priority>
 	</url>
-  </urlset>
+</urlset>
