@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9366b5825bbf8ad15662355c923c5ff3.js"
+  "/precache-manifest.1e5310b6de238c7099c85db63e18451a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "website_lafragua_es"});
